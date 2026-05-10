@@ -1,0 +1,11 @@
+# Security
+.env
+openaiapikey.txt
+
+# Python & System
+__pycache__/
+*.zip
+.ipynb_checkpoints/
+
+
+*.docx
