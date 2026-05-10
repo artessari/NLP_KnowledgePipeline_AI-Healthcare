@@ -1,0 +1,14 @@
+# Exclude documentation and exports from repository language statistics
+*.html linguist-detectable=false
+*.pdf linguist-detectable=false
+
+# Exclude data files and results from language statistics
+*.csv linguist-detectable=false
+*.json linguist-detectable=false
+
+# Treat FAISS index files as binary and exclude from statistics
+*.index binary
+*.index linguist-detectable=false
+
+# Standardize line endings across different operating systems
+* text=auto
