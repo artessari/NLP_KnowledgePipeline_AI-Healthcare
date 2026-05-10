@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Machine healing",
+    "summaries": {
+      "role": {
+        "coverage": 4,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "bullets": {
+        "coverage": 3,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      }
+    }
+  },
+  {
+    "title": "The algorithm will see you now",
+    "summaries": {
+      "role": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 3,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 5,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      }
+    }
+  },
+  {
+    "title": "Great promise but potential for peril",
+    "summaries": {
+      "role": {
+        "coverage": 5,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 3,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      }
+    }
+  },
+  {
+    "title": "New AI tool can diagnose cancer, guide treatment, predict patient survival",
+    "summaries": {
+      "role": {
+        "coverage": 5,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 3,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      }
+    }
+  },
+  {
+    "title": "AI revolution in medicine",
+    "summaries": {
+      "role": {
+        "coverage": 5,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 3,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      }
+    }
+  },
+  {
+    "title": "Using AI to repurpose existing drugs for treatment of rare diseases",
+    "summaries": {
+      "role": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 3,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      }
+    }
+  },
+  {
+    "title": "It’s inoperable cancer. Should AI make call about what happens next?",
+    "summaries": {
+      "role": {
+        "coverage": 5,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 3,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      }
+    }
+  },
+  {
+    "title": "AI may be just what the dentist ordered",
+    "summaries": {
+      "role": {
+        "coverage": 5,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 3,
+        "conciseness": 4,
+        "coherence": 4,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      }
+    }
+  },
+  {
+    "title": "Cutting through the fog of long COVID",
+    "summaries": {
+      "role": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 4
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      }
+    }
+  },
+  {
+    "title": "New journal, podcast take a closer look at artificial intelligence in medicine",
+    "summaries": {
+      "role": {
+        "coverage": 5,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "bullets": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      },
+      "fallback": {
+        "coverage": 4,
+        "conciseness": 5,
+        "coherence": 5,
+        "faithfulness": 5
+      }
+    }
+  }
+]
